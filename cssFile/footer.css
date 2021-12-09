@@ -1,0 +1,17 @@
+footer{
+    border-top: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin:20px auto auto auto;
+    padding: 20px 0px;
+}
+
+
+.foot{
+    /* border: 1px solid hotpink; */
+    flex-basis: 33%;
+    padding: 5px;
+    border: 1px solid red;
+    margin: 5px;
+}

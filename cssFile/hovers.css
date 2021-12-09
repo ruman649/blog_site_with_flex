@@ -1,0 +1,9 @@
+/* headersss */
+li a:hover{
+    background-color: antiquewhite;
+    color: rgb(49, 185, 8);
+}
+
+.head2 a:hover{
+    color: rgb(255, 47, 47);
+}

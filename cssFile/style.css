@@ -1,0 +1,29 @@
+@import "header.css";
+@import "main.css";
+@import "footer.css";
+@import "mediaQ.css";
+@import "hovers.css";
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+}
+.container{
+    width: 90%;
+}
+a{
+    text-decoration: none;
+    color: white;
+} 
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
